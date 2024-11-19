@@ -8,4 +8,4 @@ Clase 3: [Operaciones con conjuntos](Semana3-Logica-FEC-LUZ.html)
 
 Clase 4: [Práctica](https://app.lumi.education/run/lv6Ydr)
 
-Clase 5: [Operaciones con conjuntos](Semana5-Logica-FEC-LUZ.html)
+Clase 5: [Operaciones con conjuntos (II)](Semana5-Logica-FEC-LUZ.html)
